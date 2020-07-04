@@ -16,3 +16,19 @@ bundles
 dist
 **/*.egg-info
 .vscode
+
+####################
+#nelnet custom
+####################
+
+# Editors         #
+###################
+*~
+*bak
+*#
+.#*
+auto-save-list
+
+# Temporary Files #
+###################
+*.leetmp
